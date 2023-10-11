@@ -13,7 +13,7 @@ def draw_line():
 
 
 pygame.init()
-sc = pygame.display.set_mode((WIDHT, HEIGHT), pygame.FULLSCREEN)
+sc = pygame.display.set_mode((WIDHT, HEIGHT))
 pygame.mouse.set_visible(False)
 exit = False
 start = False
