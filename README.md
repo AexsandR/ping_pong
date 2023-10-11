@@ -3,7 +3,7 @@
 <div>
 <img style="wight: 190px;height:190px" src="img_for_README/ping_pong.gif">
 </div>
-<div style=" margin-left: 350px; margin-top: -195px;">
+<div>
 <h5>
     Данный проект сделан на языке прораммировния python, с
     использованием библиотеки pygame
